@@ -125,6 +125,7 @@ export default {
 npm install -D prettier prettier-plugin-tailwindcss - 자동 정렬 잘 됨, 권장
 
 // prettier.config.mjs
+/** @type {import('prettier').Config & import('prettier-plugin-tailwindcss').PluginOptions} */
 export default {
   plugins: ["prettier-plugin-tailwindcss"],
 };
