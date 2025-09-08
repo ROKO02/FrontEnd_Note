@@ -40,7 +40,7 @@ distpatch({
 ```
 
 # Global State Management(전역 상태 관리)
-## <a href="https://react.dev/learn/scaling-up-with-reducer-and-context">Context API</a>
+## ✅ <a href="https://react.dev/learn/scaling-up-with-reducer-and-context">Context API</a>
 prop을 사용하지 않고 데이터 공유(전역)<br>
 단점 : 규모가 커지면 Context 또한 많아져 관리 어려움<br>
 #### 사용 예시
