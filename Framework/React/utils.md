@@ -1,4 +1,4 @@
-## 페이지 이동마다 맨 위로 자동 포커스
+## ✅ 페이지 이동마다 맨 위로 자동 포커스
 ```js
 //ScroolToTop
 import { useEffect } from "react";
